@@ -2,7 +2,8 @@ A fully fledged jetpack compose developed pager for Whatsapp status, Facbook Hig
 
 https://github.com/user-attachments/assets/b2d5ae26-732c-4a3f-8119-828e31b38504
 
-<img width="459" alt="Screenshot 2024-10-15 at 4 08 04 PM" src="https://github.com/user-attachments/assets/11c23a1f-2d56-467c-b09b-c858e8e724be">
+<img width="409" alt="Screenshot 2024-10-15 at 4 08 04 PM" src="https://github.com/user-attachments/assets/11c23a1f-2d56-467c-b09b-c858e8e724be">
+<img width="409" alt="Screenshot 2024-10-15 at 4 08 04 PM" src="https://github.com/user-attachments/assets/d455c87c-4a65-4258-8dea-20a3249fec03">
 
 /** This can be used in compose multiplatform also by using the below code. Replacing Coil by KamelImage and LinearProgressIndicator By CustomProgressBar using Canvas **/
 
